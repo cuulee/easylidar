@@ -2,7 +2,7 @@
 # What is it?
 Easylidar is a tool I made to speed up dealing with lidar data, and metadata files. All I really wanted was the point data transformed to 4326 projection while I wanted the elevation data to stay in meters and also to bring in the color intensity into one dataframe. So essentially this script assumes you have a a lidar file (las) and a lidar metadata file (xml) in your current directory. (or a explicitly stated folder) Simply call one function it traverses the current directory for an xml file from that metadata file parses and searches for the projections ESPG and sends that into a function to transform it into ESPG 4326 and return it all as dataframe. 
 
-** NOTE: Currently Assumes you have only 1 xml file and 1 las file in your current directory if not the case use the folder = folder location kwarg and put the two files in the folder sent in as an argument.**
+**NOTE: Currently Assumes you have only 1 xml file and 1 las file in your current directory if not the case use the folder = folder location kwarg and put the two files in the folder sent in as an argument.**
 
 # Example Output
 This example assumes you have the to files in the examples folder.
