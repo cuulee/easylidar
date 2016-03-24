@@ -1,0 +1,43 @@
+<?xml version="1.0" standalone="yes"?>
+<Metadata>
+<EntityID>WV_Charleston_2007_000460</EntityID>
+<ProjectName>WV_Charleston_2007</ProjectName>
+<ProjectMetadataFiles>http://dds.cr.usgs.gov/lidar_v2/WV/2007/WV_Charleston_2007/metadata/WV_Charleston_2007_metadata.zip</ProjectMetadataFiles>
+<State>WV</State>
+<BeginDate>2007-03-01</BeginDate>
+<EndDate>2007-03-01</EndDate>
+<VerticalDatum>NA</VerticalDatum>
+<MapProjection>STATE_PLANE</MapProjection>
+<MapZone>4702</MapZone>
+<MapProjectionDefinition>PROJCS["NAD_1983_HARN_StatePlane_West_Virginia_South_FIPS_4702_Feet",GEOGCS["GCS_North_American_1983_HARN",DATUM["D_North_American_1983_HARN",SPHEROID["GRS_1980",6378137.0,298.257222101]],PRIMEM["Greenwich",0.0],UNIT["Degree",0.0174532925199433]],PROJECTION["Lambert_Conformal_Conic"],PARAMETER["False_Easting",1968500.0],PARAMETER["False_Northing",0.0],PARAMETER["Central_Meridian",-81.0],PARAMETER["Standard_Parallel_1",37.48333333333333],PARAMETER["Standard_Parallel_2",38.88333333333333],PARAMETER["Latitude_Of_Origin",37.0],UNIT["Foot_US",0.3048006096012192],AUTHORITY["EPSG",26862]]</MapProjectionDefinition>
+<CenterLat>38.3888360</CenterLat>
+<CenterLon>-81.5613666</CenterLon>
+<ULLat>38.3915749</ULLat>
+<ULLon>-81.5675110</ULLon>
+<URLat>38.3916333</URLat>
+<URLon>-81.5552638</URLon>
+<LRLat>38.3860971</LRLat>
+<LRLon>-81.5552222</LRLon>
+<LLLat>38.3860388</LLLat>
+<LLLon>-81.5674666</LLLon>
+<MinX>1805858.60</MinX>
+<MaxX>1809358.57</MaxX>
+<MinY>505212.83</MinY>
+<MaxY>507212.82</MaxY>
+<MinZ>583.26</MinZ>
+<MaxZ>1088.61</MaxZ>
+<VendorID>q15</VendorID>
+<NumOfPulseRecords>749486</NumOfPulseRecords>
+<NumOfPulsesByReturn>(1) 328139 (2) 317991 (3) 94144 (4) 9212</NumOfPulsesByReturn>
+<NumOfPtRecords>749486</NumOfPtRecords>
+<NumOfPtsByReturn>(1) 522368 (2) 191806 (3) 33110 (4) 2202</NumOfPtsByReturn>
+<Intensity>0,255</Intensity>
+<NominalPulseSpacing>1.40775</NominalPulseSpacing>
+<PulseDensity>0.504603</PulseDensity>
+<PulseDensityNPSUnits>METER</PulseDensityNPSUnits>
+<VendorNominalPulseSpacing>NA</VendorNominalPulseSpacing>
+<VendorPointDensity>NA</VendorPointDensity>
+<VendorPointDensityNPSUnits>NA</VendorPointDensityNPSUnits>
+<FileFormat>las</FileFormat>
+<LASVersion>1.0</LASVersion>
+</Metadata>
