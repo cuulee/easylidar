@@ -7,7 +7,7 @@ This example assumes you have the to files in the examples folder.
 ```python
 import easylidar as el
 
-data = get_lidar()
+data = el.get_lidar()
 print data
 
 '''
