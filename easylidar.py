@@ -63,7 +63,7 @@ def read_return(filename,CRS):
 	# reprojecting point
 	lats,longs =project_point(lats,longs,CRS)
 	data=[infile.x.tolist(),infile.y.tolist(),infile.z.tolist()]
-	newdata=[['LAT','LONG','ELEVATION','INTENSITY']]
+	newdata=[['LONG','LAT','ELEVATION','INTENSITY']]
 
 	# iterating through each point
 	for x,y,z,intens in itertools.izip(lats,longs,elevations,intensity):
