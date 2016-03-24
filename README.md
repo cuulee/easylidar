@@ -81,5 +81,4 @@ print data
 '''
 ```
 
-# Functionality 
-Supports a folder kwarg argument to look only inside of one folder.
+
